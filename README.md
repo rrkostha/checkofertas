@@ -1,2 +1,2 @@
 # checkofertas
- Primeiro repositorio que ue rogerio fizc
+ Primeiro repositorio que eu rogerio fiz
